@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en" class="bg-white text-black">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tailwind CSS Testimonials</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              silver: '#C0C0C0',
+            },
+          },
+        },
+      };
+    </script>
+    <script src="script.js" defer></script>
+  </head>
+  <body class="">
+    <div class="min-h-screen p-8 max-w-4xl mx-auto">
+      <h1 class="text-4xl font-bold text-center mb-8">
+        This "Tool" Actually Works.
+      </h1>
+
+      <p class="text-center text-gray-600 mb-12 max-w-2xl mx-auto">
+        You will get hands on training, you will come in-person and attend
+        meetings that reiterate the same things but having the tools in your
+        hand on-site is a whole different experience.
+      </p>
+
+      <div class="flex items-center justify-center mb-16">
+        <img
+          src="https://assets.codepen.io/6836864/James+cover+pic.png"
+          alt="Adam Wathan"
+          class="w-12 h-12 rounded-full mr-4"
+        />
+        <div>
+          <h3 class="font-semibold">Dr. James Abiola PsyD</h3>
+          <p class="text-gray-600">Creator of RBT Cheatsheet</p>
+        </div>
+      </div>
+
+      <div
+        class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"
+        id="testimonials"
+      >
+        <div class="bg-white border border-silver p-4 rounded-lg shadow-sm">
+          <div class="flex items-center mb-2">
+            <img
+              src="https://assets.codepen.io/6836864/Kydeema.jpeg"
+              class="w-8 h-8 rounded-full mr-2"
+            />
+            <div>
+              <h3 class="font-semibold text-sm">Kydeema Curtis</h3>
+              <p class="text-gray-600 text-xs">BHT</p>
+            </div>
+          </div>
+          <p class="text-gray-800 text-sm">
+            Work is so easy with this tool straight up.
+          </p>
+        </div>
+
+        <div class="bg-white border border-silver p-4 rounded-lg shadow-sm">
+          <div class="flex items-center mb-2">
+            <img
+              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+              class="w-8 h-8 rounded-full mr-2"
+            />
+            <div>
+              <h3 class="font-semibold text-sm">Debbie O'Brien</h3>
+              <p class="text-gray-600 text-xs">
+                Senior Program Manager at Microsoft
+              </p>
+            </div>
+          </div>
+          <p class="text-gray-800 text-sm">
+            Have been working with CSS for over ten years and Tailwind just
+            makes my life easier. It is still CSS and you use flex, grid, etc.
+            but just quicker to write and maintain.
+          </p>
+        </div>
+
+        <div class="bg-white border border-silver p-4 rounded-lg shadow-sm">
+          <div class="flex items-center mb-2">
+            <img
+              src="https://assets.codepen.io/6836864/IMG_7581.jpg?width=99&height=99&format=auto"
+              class="w-8 h-8 rounded-full mr-2"
+            />
+            <div>
+              <h3 class="font-semibold text-sm">Stephan Brookens</h3>
+              <p class="text-gray-600 text-xs">Behavior Consultant</p>
+            </div>
+          </div>
+          <p class="text-gray-800 text-sm">Micro managing people became less of a stressor with this tool.</p>
+        </div>
+      </div>
+
+      <div class="text-center mt-8">
+        <button
+          id="showMoreBtn"
+          class="bg-white hover:bg-black hover:text-white border border-silver font-light py-2 px-4 rounded"
+        >
+          Show more...
+        </button>
+        <button
+          id="showLessBtn"
+          class="bg-white hover:bg-black hover:text-white border border-silver font-light py-2 px-4 rounded hidden"
+        >
+          I get it...
+        </button>
+      </div>
+    </div>
+  </body>
+</html>
