@@ -4,7 +4,7 @@ const testimonialData = [
   {
     name: 'Alvan Morrison',
     role: 'BHT',
-    quote: 'This tool help me the first week of being assigned to my first case to write notes like a boss.',
+    quote: 'I love using the Cheatsheet app—it has been incredibly helpful in writing detailed progress notes and serves as a great refresher for ABA principles.',
     image: 'https://assets.codepen.io/6836864/Image-1.jpg'
   },
   {
