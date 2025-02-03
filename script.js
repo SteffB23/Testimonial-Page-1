@@ -15,92 +15,92 @@ const testimonialData = [
   },
   {
     name: 'Shruti Balasa',
-    role: 'Full Stack Web Developer & Tech Educator',
-    quote: 'I was bad at front-end until I discovered Tailwind CSS. I have learnt a lot more about design and CSS itself after I started working with Tailwind.',
-    image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80'
+    role: 'Behavior Consultant',
+    quote: 'I was struggling to manage both sides of the consultant role since my experience was predominately with CBT until I discovered This tool. I have learnt a lot more about ABA and the specific interventions associated with Autism.',
+    image: 'https://images.unsplash.com/photo-1550525811-e5869dd03032?ixlib=rb-=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=1024&h=1024&q=80'
   },
   {
     name: 'Sara Vieira',
-    role: 'CodeSandbox',
-    quote: "I have no design skills and with Tailwind I can actually make good looking websites with ease and it's everything I ever wanted in a CSS framework.",
+    role: 'Clinical Supervisor',
+    quote: "This tool makes it easy for the clinicians to assist the technicians.",
     image: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80'
   },
   {
     name: 'Didier Catz',
-    role: 'Co-founder @StyptApp',
-    quote: "Tailwind CSS is bridging the gap between design systems and products. It's becoming the defacto API for styling.",
+    role: 'RBT',
+    quote: "This app is bridging the gap between coming from a background with no experience to becoming an ABA pro.",
     image: 'https://images.unsplash.com/photo-1519345182560-3f2917c472ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80'
   },
   {
-    name: 'John Doe',
-    role: 'Frontend Developer',
-    quote: "Tailwind CSS has revolutionized the way I approach web design. It's intuitive and incredibly efficient.",
+    name: 'Brandon Marrick',
+    role: 'BHT',
+    quote: "This app has revolutionized the way I approach ABA. It's intuitive and incredibly efficient.",
     image: 'https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80'
   },
   {
-    name: 'Jane Smith',
-    role: 'UX Designer',
-    quote: 'The utility-first approach of Tailwind CSS allows for rapid prototyping and consistent designs across projects.',
+    name: 'Jane Dougherty',
+    role: 'Behavior Consultant',
+    quote: 'This utility-first tool increases my technicians instructional control and completion of daily progress notes. I love it!',
     image: 'https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80'
   },
   {
     name: 'Alex Johnson',
-    role: 'Full Stack Developer',
-    quote: "Tailwind's flexibility has improved my workflow significantly. It's a game-changer for responsive design.",
+    role: 'BCBA',
+    quote: "This app's flexibility has improved my technicians workflow significantly. It's a game-changer for teaching and empowering.",
     image: 'https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80'
   },
   {
     name: 'Emily Brown',
-    role: 'Web Developer',
-    quote: "I was skeptical at first, but Tailwind CSS has won me over. It's now an essential part of my toolkit.",
+    role: 'Behavior Consultant',
+    quote: "I was skeptical at first, but this tool has won me over. It's now an essential part of my toolkit.",
     image: 'https://images.unsplash.com/photo-1551069613-1904dbdcda11?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80'
   },
   {
     name: 'Michael Lee',
-    role: 'Software Engineer',
-    quote: "Tailwind CSS strikes the perfect balance between customization and convention. It's a joy to work with.",
+    role: 'Behavior Consultant',
+    quote: "This tool strikes the perfect balance between work and growth. It's a joy to use.",
     image: 'https://images.unsplash.com/photo-1500048993953-d23a436266cf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80'
   },
   {
     name: 'Sarah Connor',
-    role: 'UI Designer',
-    quote: 'The learning curve is worth it. Tailwind CSS has made me a more efficient and effective designer.',
+    role: 'Operations Coordinator',
+    quote: 'The learning curve is 10x. The RBT Cheatsheet has made our employees more efficient and effective.',
     image: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80'
   },
   {
     name: 'David Wilson',
-    role: 'Frontend Architect',
-    quote: "Tailwind's approach to CSS is refreshing. It's changed how I think about styling web applications.",
+    role: 'Administrative Director',
+    quote: "Checking Progress notes is no longer a nightmare. Lol",
     image: 'https://images.unsplash.com/photo-1520785643438-5bf77931f493?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80'
   },
   {
     name: 'Lisa Taylor',
-    role: 'Web Design Instructor',
-    quote: "I recommend Tailwind CSS to all my students. It's an excellent tool for learning modern CSS practices.",
+    role: 'BHT',
+    quote: "I recommend this tool to all my colleagues. It's an excellent tool for learning modern ABA practices.",
     image: 'https://images.unsplash.com/photo-1546967191-fdfb13ed6b1e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80'
   },
   {
     name: 'Robert Martinez',
-    role: 'Freelance Web Developer',
-    quote: 'Tailwind CSS has sped up my development process significantly. My clients are happier with faster turnaround times.',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80'
+    role: 'Clinical Director',
+    quote: 'The RBT Cheatsheet has sped up my staff development process significantly. Our employees are happier with faster learning curve experiences.',
+    image: 'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80'
   },
   {
     name: 'Emma Watson',
-    role: 'UI/UX Designer',
-    quote: 'The consistency and flexibility of Tailwind CSS have improved collaboration between design and development teams.',
+    role: 'RBT',
+    quote: 'The consistency and flexibility of this app has improved collaboration between me and our other treatment teams.',
     image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80'
   },
   {
     name: 'Chris Evans',
-    role: 'Senior Frontend Developer',
-    quote: "Tailwind CSS has simplified our design system implementation. It's a powerful tool for large-scale applications.",
+    role: 'Behavior Consultant',
+    quote: "This Cheatsheet has simplified our supervision protocols and implementation. It's a powerful tool for large-scale agencies.",
     image: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80'
   },
   {
     name: 'Olivia Parker',
-    role: 'Web Accessibility Specialist',
-    quote: 'I appreciate how Tailwind CSS makes it easy to create accessible designs right out of the box.',
+    role: 'BCBA',
+    quote: 'I appreciate how this cheatsheet makes it easy to create stronger technicians in real-time.',
     image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80'
   },
   {
@@ -117,7 +117,7 @@ const testimonialData = [
   },
   {
     name: 'Ethan Hunt',
-    role: 'DevOps Engineer',
+    role: 'BCBA',
     quote: "The modularity of Tailwind CSS fits perfectly with our microservices architecture. It's DevOps friendly!",
     image: 'https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80'
   },
